@@ -9,3 +9,5 @@ console.log(0.1 + 0.7) // não retorn 0.8 e sim 0.7999999999 (é um tipo de espe
 // console.log(10.toString()) // não funciona
 
 console.log((10.345).toFixed(2)) // consegue chamar literal dentro de parenteses
+
+console.log('3' + 2) // não soma 3 + 2, pois 3 é string e tem prioridade na operação, então junta 3 e 2, acontece apenas com o operador +
