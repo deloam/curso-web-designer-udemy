@@ -1,7 +1,6 @@
 # curso-web-designer-udemy
-
-<p align="center"> Seja Bem vindo ao meu repositório! </p>
 códigos do meu curso de web designer da udemy
+
 
 ### Aqui é apenas um repositório de aprendizado
 
