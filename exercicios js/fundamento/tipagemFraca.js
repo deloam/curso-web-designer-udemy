@@ -10,7 +10,7 @@ console.log(qualquer)
 console.log(typeof qualquer)
 
 //evitar nome generico e siglas para variaveis
-// exemplos de como nao usar
+// exemplos de como NÃO usar
 
 let valor = ''
 let numero = 1

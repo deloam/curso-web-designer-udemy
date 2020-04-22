@@ -3,7 +3,7 @@ const nome = 'Rebeca'
 
 const concatenacao = 'Olá ' + nome + '!'
 
-// uso de template
+// uso de template é esse acento `
 const template = ` 
     Olá
     ${nome}!`
