@@ -17,10 +17,10 @@ const obj4 = {[nomeAttr]: valorAttr} // mesma coisa do objeto 3
 console.log(obj4)
 
 const obj5 = {
-    funcao1: function() {
+    funcao1: function() { // forma tradicional
         // ...
     },
-    funcao2() {
+    funcao2() { // forma reduzida de criar função
         // ...
     }
 }
