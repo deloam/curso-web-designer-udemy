@@ -13,7 +13,7 @@ function lerArquivo(caminho) {
 }
 
 lerArquivo(caminho)
-    .then(conteudo => conteudo.split('\r\n'))
+    .then(conteudo => conteudo.split('\n'))
     .then(linhas => linhas.join(','))
     .then(conteudo => `O valor final é: ${conteudo}`)
     .then(console.log)
