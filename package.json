@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/deloam/curso-web-designer-udemy/issues"
   },
-  "homepage": "https://github.com/deloam/curso-web-designer-udemy#readme"
+  "homepage": "https://github.com/deloam/curso-web-designer-udemy#readme",
+  "dependencies": {
+    "body-parser": "1.18.2",
+    "express": "4.16.3"
+  }
 }
